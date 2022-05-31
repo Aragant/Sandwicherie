@@ -1,11 +1,22 @@
 using System.ComponentModel;
-enum IngredientName{
+public enum IngredientName{
     [Description("pain")]
-    Pain,
+    Bread,
     [Description("tranche de jambon")]
-    Jambon,
+    Ham,
     [Description("beurre")]
-    Beurre,
-    [Description("poulet")]
-    Poulet,
+    Butter,
+    [Description("tranche de poulet")]
+    Chicken,
+    [Description("oeuf")]
+    Egg,
+    [Description("tomate")]
+    Tomato,
+    [Description("mayonnaise")]
+    Mayonnaise,
+    [Description("salade")]
+    Salad,
+    [Description("thon")]
+    Tuna,
+
 }
