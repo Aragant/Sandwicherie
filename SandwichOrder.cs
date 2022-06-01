@@ -6,9 +6,9 @@ class SandwichOrder {
         Console.WriteLine("Your order is:");
         foreach (KeyValuePair<string, int> sandwich in sandwiches) {
             Console.WriteLine($"    >{sandwich.Value} {sandwich.Key} :");
-            Sandwich currentSandwich = GetSandwich(sandwich.Key);
+            Sandwich? currentSandwich = GetSandwich(sandwich.Key);
             foreach (Ingredient ingredient in currentSandwich.Ingredients) {
-                Console.WriteLine($"        - {ingredient.Quantity} {ingredient.Unit.ToDescriptionString()} {ingredient.Name.ToDescriptionString()}");
+                Console.WriteLine($"        - {ingredient.Quantity}{ingredient.Unit.ToDescriptionString()} {ingredient.Name.ToDescriptionString()}");
             }
             totalPrice += currentSandwich.price * sandwich.Value;
             Console.WriteLine($"    Price : {currentSandwich.price * sandwich.Value}e");
@@ -23,6 +23,6 @@ class SandwichOrder {
                 return sandwich;
             }
         }
-        return null;
+        return Sandwich.NaN;
     }
 }

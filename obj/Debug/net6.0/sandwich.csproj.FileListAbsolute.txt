@@ -13,3 +13,18 @@ C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\refint\sandwich.dll
 C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\sandwich.pdb
 C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\sandwich.genruntimeconfig.cache
 C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\ref\sandwich.dll
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\bin\Debug\net6.0\sandwich.exe
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\bin\Debug\net6.0\sandwich.deps.json
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\bin\Debug\net6.0\sandwich.runtimeconfig.json
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\bin\Debug\net6.0\sandwich.dll
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\bin\Debug\net6.0\sandwich.pdb
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.csproj.AssemblyReference.cache
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.AssemblyInfoInputs.cache
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.AssemblyInfo.cs
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.dll
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\refint\sandwich.dll
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.pdb
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.genruntimeconfig.cache
+C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\ref\sandwich.dll
