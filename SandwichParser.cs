@@ -1,7 +1,7 @@
 class SandwichParser{
     // public SandwichShop sandwichShop =  new SandwichShop();
-    public static Dictionary<string, int> Parse(string order) {
-        Dictionary<string, int> sandwiches = new Dictionary<string, int>();
+    public static Dictionary<Sandwich, int> Parse(string order) {
+        Dictionary<Sandwich, int> sandwiches = new Dictionary<Sandwich, int>();
 
         String[] orderArray = order.Split(',');
         foreach (string sandwich in orderArray){
@@ -12,41 +12,41 @@ class SandwichParser{
                 sandwichTrim.RemoveAt(0);
                 string sandwichName = string.Join(" ", sandwichTrim);
 
-                if(IsPresentInSandwichShop(sandwichName)){
-                    if(IsPresentInSandwichDictionary(sandwiches, sandwichName)){
-                        sandwiches[sandwichName] += quantity;
+                Sandwich currentSandwich = IsPresentInSandwichShop(sandwichName);
+                if(currentSandwich != null){
+                    if(IsPresentInSandwichDictionary(sandwiches, currentSandwich)){
+                        sandwiches[currentSandwich] += quantity;
                     }
                     else{
-                        sandwiches.Add(sandwichName, quantity);
+                        sandwiches.Add(currentSandwich, quantity);
                     }
                 }
                 else{
                     Console.WriteLine("Sorry, we don't have that sandwich");
-                    return new Dictionary<string, int>();
+                    return new Dictionary<Sandwich, int>();
                 }
             }
             else{
                 Console.WriteLine("Invalid quantity");
-                return new Dictionary<string, int>();
+                return new Dictionary<Sandwich, int>();
             }
         }
         return sandwiches;
     }
 
-    public static bool IsPresentInSandwichShop(string sandwich){
+    public static Sandwich IsPresentInSandwichShop(string sandwich){
         foreach (Sandwich sandwichShopSandwich in SandwichShop.sandwiches){
             if(sandwichShopSandwich.name == sandwich){
-                return true;
+                return sandwichShopSandwich;
             }
         }
-        return false;
+
+        return null;
     }
 
-    private static bool IsPresentInSandwichDictionary(Dictionary<string, int> sandwiches, string sandwich){
-        foreach (KeyValuePair<string, int> sandwichDictionary in sandwiches){
-            if(sandwichDictionary.Key == sandwich){
-                return true;
-            }
+    private static bool IsPresentInSandwichDictionary(Dictionary<Sandwich, int> sandwiches, Sandwich sandwich){
+        if(sandwiches.ContainsKey(sandwich)){
+            return true;
         }
 
         return false;

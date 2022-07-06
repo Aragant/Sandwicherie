@@ -12,7 +12,12 @@ class SandwichPrompter {
     public static void TakeOrder() {
         Console.WriteLine("What kind of sandwich would you like?");
         string? order = Console.ReadLine();
-        Dictionary<string, int> sandwiches = SandwichParser.Parse(order);
+        if (order == null) {
+            Console.WriteLine("Invalid order");
+            return;
+        }
+        
+        Dictionary<Sandwich, int> sandwiches = SandwichParser.Parse(order);
 
         if(sandwiches.Count() > 0) {
             SandwichOrder.DisplayOrder(sandwiches);
