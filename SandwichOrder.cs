@@ -17,12 +17,7 @@ class SandwichOrder {
         Console.WriteLine($"Total price : {totalPrice}e");
     }
 
-    public static Sandwich GetSandwich(string sandwichName) {
-        foreach (Sandwich sandwich in SandwichShop.sandwiches) {
-            if (sandwich.name == sandwichName) {
-                return sandwich;
-            }
-        }
-        return null;
-    }
+    public static Sandwich GetSandwich(string sandwichName) => 
+         SandwichShop.sandwiches.FirstOrDefault(sandwich => sandwich.name == sandwichName);
+    
 }
