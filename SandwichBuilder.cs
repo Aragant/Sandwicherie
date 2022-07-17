@@ -1,6 +1,6 @@
 class SandwichBuilder {
-    private List<Ingredient> ingredients;
-    private string name;
+    private List<Ingredient>? ingredients;
+    private string? name;
     private float price;
 
     public SandwichBuilder() {
