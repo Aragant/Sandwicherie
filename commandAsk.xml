@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <command>
+        <sandwich>
+            <quantity>
+                5
+            </quantity>
+            <name>Jambon beurre</name>
+        </sandwich>
+        <sandwich>
+            <quantity>
+                8
+            </quantity>
+            <name>Poulet crudite</name>
+        </sandwich>
+    </command>

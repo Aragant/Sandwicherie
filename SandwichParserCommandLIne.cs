@@ -1,6 +1,6 @@
-class SandwichParser{
+class SandwichParserCommandLine: ISandwichParser {
     // public SandwichShop sandwichShop =  new SandwichShop();
-    public static Dictionary<Sandwich, int> Parse(string order) {
+    public Dictionary<Sandwich, int> Parse(string order) {
         Dictionary<Sandwich, int> sandwiches = new Dictionary<Sandwich, int>();
 
         String[] orderArray = order.Split(',');
@@ -12,9 +12,9 @@ class SandwichParser{
                 sandwichTrim.RemoveAt(0);
                 string sandwichName = string.Join(" ", sandwichTrim);
 
-                Sandwich currentSandwich = IsPresentInSandwichShop(sandwichName);
+                Sandwich currentSandwich = ISandwichParser.IsPresentInSandwichShop(sandwichName);
                 if(currentSandwich != null){
-                    if(IsPresentInSandwichDictionary(sandwiches, currentSandwich)){
+                    if(ISandwichParser.IsPresentInSandwichDictionary(sandwiches, currentSandwich)){
                         sandwiches[currentSandwich] += quantity;
                     }
                     else{
@@ -32,24 +32,6 @@ class SandwichParser{
             }
         }
         return sandwiches;
-    }
-
-    public static Sandwich IsPresentInSandwichShop(string sandwich){
-        foreach (Sandwich sandwichShopSandwich in SandwichShop.sandwiches){
-            if(sandwichShopSandwich.name == sandwich){
-                return sandwichShopSandwich;
-            }
-        }
-
-        return null;
-    }
-
-    private static bool IsPresentInSandwichDictionary(Dictionary<Sandwich, int> sandwiches, Sandwich sandwich){
-        if(sandwiches.ContainsKey(sandwich)){
-            return true;
-        }
-
-        return false;
     }
 
 }

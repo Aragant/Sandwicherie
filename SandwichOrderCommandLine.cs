@@ -1,7 +1,8 @@
 using Acme.Utils;
-class SandwichOrder {
-    private static SandwichShop SandwichShop = new SandwichShop();
-    public static void DisplayOrder(Dictionary<Sandwich, int> sandwiches) {
+class SandwichOrderCommandLine: ISandwichOrder {
+    private SandwichShop SandwichShop = new SandwichShop();
+
+    public void DisplayOrder(Dictionary<Sandwich, int> sandwiches) {
         float totalPrice = 0;
         Console.WriteLine("Your order is:");
         foreach (KeyValuePair<Sandwich, int> sandwich in sandwiches) {
@@ -20,4 +21,5 @@ class SandwichOrder {
     public static Sandwich GetSandwich(string sandwichName) => 
          SandwichShop.sandwiches.FirstOrDefault(sandwich => sandwich.name == sandwichName);
     
+
 }

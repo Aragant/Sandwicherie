@@ -1,24 +1,53 @@
-C:\toto\esgi\4A\C#\sandwich\bin\Debug\net6.0\sandwich.exe
-C:\toto\esgi\4A\C#\sandwich\bin\Debug\net6.0\sandwich.deps.json
-C:\toto\esgi\4A\C#\sandwich\bin\Debug\net6.0\sandwich.runtimeconfig.json
-C:\toto\esgi\4A\C#\sandwich\bin\Debug\net6.0\sandwich.dll
-C:\toto\esgi\4A\C#\sandwich\bin\Debug\net6.0\sandwich.pdb
-C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\sandwich.csproj.AssemblyReference.cache
-C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\sandwich.GeneratedMSBuildEditorConfig.editorconfig
-C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\sandwich.AssemblyInfoInputs.cache
-C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\sandwich.AssemblyInfo.cs
-C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\sandwich.csproj.CoreCompileInputs.cache
-C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\sandwich.dll
-C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\refint\sandwich.dll
-C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\sandwich.pdb
-C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\sandwich.genruntimeconfig.cache
-C:\toto\esgi\4A\C#\sandwich\obj\Debug\net6.0\ref\sandwich.dll
+C:/toto/esgi/4A/C#/sandwich/bin/Debug/net6.0/sandwich.exe
+C:/toto/esgi/4A/C#/sandwich/bin/Debug/net6.0/sandwich.deps.json
+C:/toto/esgi/4A/C#/sandwich/bin/Debug/net6.0/sandwich.runtimeconfig.json
+C:/toto/esgi/4A/C#/sandwich/bin/Debug/net6.0/sandwich.dll
+C:/toto/esgi/4A/C#/sandwich/bin/Debug/net6.0/sandwich.pdb
+C:/toto/esgi/4A/C#/sandwich/obj/Debug/net6.0/sandwich.csproj.AssemblyReference.cache
+C:/toto/esgi/4A/C#/sandwich/obj/Debug/net6.0/sandwich.GeneratedMSBuildEditorConfig.editorconfig
+C:/toto/esgi/4A/C#/sandwich/obj/Debug/net6.0/sandwich.AssemblyInfoInputs.cache
+C:/toto/esgi/4A/C#/sandwich/obj/Debug/net6.0/sandwich.AssemblyInfo.cs
+C:/toto/esgi/4A/C#/sandwich/obj/Debug/net6.0/sandwich.csproj.CoreCompileInputs.cache
+C:/toto/esgi/4A/C#/sandwich/obj/Debug/net6.0/sandwich.dll
+C:/toto/esgi/4A/C#/sandwich/obj/Debug/net6.0/refint/sandwich.dll
+C:/toto/esgi/4A/C#/sandwich/obj/Debug/net6.0/sandwich.pdb
+C:/toto/esgi/4A/C#/sandwich/obj/Debug/net6.0/sandwich.genruntimeconfig.cache
+C:/toto/esgi/4A/C#/sandwich/obj/Debug/net6.0/ref/sandwich.dll
 <<<<<<< HEAD
-C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\sandwich.exe
-C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\sandwich.deps.json
-C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\sandwich.runtimeconfig.json
-C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\sandwich.dll
-C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\sandwich.pdb
+=======
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/bin/Debug/net6.0/sandwich.exe
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/bin/Debug/net6.0/sandwich.deps.json
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/bin/Debug/net6.0/sandwich.runtimeconfig.json
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/bin/Debug/net6.0/sandwich.dll
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/bin/Debug/net6.0/sandwich.pdb
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/obj/Debug/net6.0/sandwich.csproj.AssemblyReference.cache
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/obj/Debug/net6.0/sandwich.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/obj/Debug/net6.0/sandwich.AssemblyInfoInputs.cache
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/obj/Debug/net6.0/sandwich.AssemblyInfo.cs
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/obj/Debug/net6.0/sandwich.csproj.CoreCompileInputs.cache
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/obj/Debug/net6.0/sandwich.dll
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/obj/Debug/net6.0/refint/sandwich.dll
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/obj/Debug/net6.0/sandwich.pdb
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/obj/Debug/net6.0/sandwich.genruntimeconfig.cache
+C:/Users/Theo/Documents/ESGI/4 eme année/c#/sandwicherie/obj/Debug/net6.0/ref/sandwich.dll
+>>>>>>> 49a6f070314c12cf8dadbe2accdc0559d265fc94
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/bin/Debug/net6.0/sandwich
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/bin/Debug/net6.0/sandwich.deps.json
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/bin/Debug/net6.0/sandwich.runtimeconfig.json
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/bin/Debug/net6.0/sandwich.dll
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/bin/Debug/net6.0/sandwich.pdb
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/Debug/net6.0/sandwich.csproj.AssemblyReference.cache
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/Debug/net6.0/sandwich.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/Debug/net6.0/sandwich.AssemblyInfoInputs.cache
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/Debug/net6.0/sandwich.AssemblyInfo.cs
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/Debug/net6.0/sandwich.csproj.CoreCompileInputs.cache
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/Debug/net6.0/sandwich.csproj.CopyComplete
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/Debug/net6.0/sandwich.dll
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/Debug/net6.0/refint/sandwich.dll
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/Debug/net6.0/sandwich.pdb
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/Debug/net6.0/sandwich.genruntimeconfig.cache
+/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/Debug/net6.0/ref/sandwich.dll
 C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\sandwich.csproj.AssemblyReference.cache
 C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\sandwich.GeneratedMSBuildEditorConfig.editorconfig
 C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\sandwich.AssemblyInfoInputs.cache
@@ -27,24 +56,12 @@ C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\sandwich.csproj.Core
 C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\sandwich.dll
 C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\refint\sandwich.dll
 C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\sandwich.pdb
-C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\sandwich.genruntimeconfig.cache
-C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\ref\sandwich.dll
+C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\sandwich.exe
+C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\sandwich.deps.json
+C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\sandwich.runtimeconfig.json
+C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\sandwich.dll
+C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\sandwich.pdb
 C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\sandwich.csproj.CopyComplete
-=======
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\bin\Debug\net6.0\sandwich.exe
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\bin\Debug\net6.0\sandwich.deps.json
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\bin\Debug\net6.0\sandwich.runtimeconfig.json
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\bin\Debug\net6.0\sandwich.dll
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\bin\Debug\net6.0\sandwich.pdb
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.csproj.AssemblyReference.cache
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.AssemblyInfoInputs.cache
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.AssemblyInfo.cs
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.csproj.CoreCompileInputs.cache
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.dll
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\refint\sandwich.dll
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.pdb
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\sandwich.genruntimeconfig.cache
-C:\Users\Theo\Documents\ESGI\4 eme année\c#\sandwicherie\obj\Debug\net6.0\ref\sandwich.dll
->>>>>>> 49a6f070314c12cf8dadbe2accdc0559d265fc94
+C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\sandwich.genruntimeconfig.cache
+C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\ref\sandwich.dll
