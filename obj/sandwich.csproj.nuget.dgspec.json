@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj": {}
+    "/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/sandwich.csproj": {}
   },
   "projects": {
-    "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj": {
+    "/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/sandwich.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj",
+        "projectUniqueName": "/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/sandwich.csproj",
         "projectName": "sandwich",
-        "projectPath": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj",
-        "packagesPath": "C:\\Users\\tomto\\.nuget\\packages\\",
-        "outputPath": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\obj\\",
+        "projectPath": "/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/sandwich.csproj",
+        "packagesPath": "/Users/fred/.nuget/packages/",
+        "outputPath": "/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tomto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/fred/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

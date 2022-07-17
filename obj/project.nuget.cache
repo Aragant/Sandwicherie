@@ -1,17 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2hJoUP7EFsWivZQ7HNhU0yBPtuhNo67A3gNhUWDvn/YY6F3PWylJsOQR7Vpry4PecbR/4o41bvrn2N8jI+yTew==",
+  "dgSpecHash": "KCBDMVqVkWq/guaDWiHNF5drt2Ux8XuQkaZfFuCXuEZ+SX5U4A/eGgbhKCQX5Ewo2kFcb+cTx+/wkYvEmy63aA==",
   "success": true,
-  "projectFilePath": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj",
+  "projectFilePath": "/Users/fred/Documents/ESGI/Annee4/dotnet/Sandwicherie/sandwich.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\tomto\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "/Users/fred/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problème de lecture du fichier cache C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
