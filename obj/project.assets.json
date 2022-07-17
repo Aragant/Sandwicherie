@@ -48,34 +48,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Theo\\.nuget\\packages\\": {}
+    "C:\\Users\\tomto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "c:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj",
+      "projectUniqueName": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj",
       "projectName": "sandwich",
-      "projectPath": "c:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj",
+      "projectPath": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj",
       "packagesPath": "C:\\Users\\tomto\\.nuget\\packages\\",
-      "outputPath": "c:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Theo\\Documents\\ESGI\\4 eme année\\c#\\sandwicherie\\sandwich.csproj",
-      "projectName": "sandwich",
-      "projectPath": "C:\\Users\\Theo\\Documents\\ESGI\\4 eme année\\c#\\sandwicherie\\sandwich.csproj",
-      "packagesPath": "C:\\Users\\Theo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Theo\\Documents\\ESGI\\4 eme année\\c#\\sandwicherie\\obj\\",
->>>>>>> 49a6f070314c12cf8dadbe2accdc0559d265fc94
+      "outputPath": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Theo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\tomto\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -114,8 +104,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problème de lecture du fichier cache C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
