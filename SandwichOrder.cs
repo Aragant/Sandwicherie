@@ -8,7 +8,7 @@ class SandwichOrder {
             Console.WriteLine($"    >{sandwich.Value} {sandwich.Key.name} :");
             Sandwich currentSandwich = sandwich.Key;
             foreach (Ingredient ingredient in currentSandwich.Ingredients) {
-                Console.WriteLine($"        - {ingredient.Quantity} {ingredient.Unit.ToDescriptionString()} {ingredient.Name.ToDescriptionString()}");
+                Console.WriteLine($"        - {ingredient.Quantity}{ingredient.Unit.ToDescriptionString()} {ingredient.Name.ToDescriptionString()}");
             }
             totalPrice += currentSandwich.price * sandwich.Value;
             Console.WriteLine($"    Price : {currentSandwich.price * sandwich.Value}e");

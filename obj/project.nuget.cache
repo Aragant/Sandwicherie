@@ -1,10 +1,17 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "2hJoUP7EFsWivZQ7HNhU0yBPtuhNo67A3gNhUWDvn/YY6F3PWylJsOQR7Vpry4PecbR/4o41bvrn2N8jI+yTew==",
   "success": true,
   "projectFilePath": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomto\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "PH5fATrxx3UaZFQXTOP8x+m5tG9ULy+Qy4Uw7c3+huv3ZqVG0NlUXthffEeYrqe8J6yLAE3OBvaodQyrZ82jPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Theo\\Documents\\ESGI\\4 eme année\\c#\\sandwicherie\\sandwich.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 49a6f070314c12cf8dadbe2accdc0559d265fc94
   "logs": []
 }

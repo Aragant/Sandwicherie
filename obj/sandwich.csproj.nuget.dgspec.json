@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj": {}
   },
   "projects": {
@@ -12,14 +13,29 @@
         "projectPath": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj",
         "packagesPath": "C:\\Users\\tomto\\.nuget\\packages\\",
         "outputPath": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\obj\\",
+=======
+    "C:\\Users\\Theo\\Documents\\ESGI\\4 eme année\\c#\\sandwicherie\\sandwich.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Theo\\Documents\\ESGI\\4 eme année\\c#\\sandwicherie\\sandwich.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Theo\\Documents\\ESGI\\4 eme année\\c#\\sandwicherie\\sandwich.csproj",
+        "projectName": "sandwich",
+        "projectPath": "C:\\Users\\Theo\\Documents\\ESGI\\4 eme année\\c#\\sandwicherie\\sandwich.csproj",
+        "packagesPath": "C:\\Users\\Theo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Theo\\Documents\\ESGI\\4 eme année\\c#\\sandwicherie\\obj\\",
+>>>>>>> 49a6f070314c12cf8dadbe2accdc0559d265fc94
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tomto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Theo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

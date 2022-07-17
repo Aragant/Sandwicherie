@@ -1,0 +1,25 @@
+{
+    "sandwiches": [
+        {
+            "ingredients": [
+                {
+                    "quantity": 1,
+                    "unit": "None",
+                    "name": "Bread"
+                },
+                {
+                    "quantity": 1,
+                    "unit": "None",
+                    "name": "Ham"
+                },
+                {
+                    "quantity": 10,
+                    "unit": "Grams",
+                    "name": "Butter"
+                }
+            ],
+            "name": "Jambon Beurre",
+            "price": 2.50
+        }
+    ]
+}

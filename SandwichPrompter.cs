@@ -5,7 +5,7 @@ class SandwichPrompter {
         Console.WriteLine("Welcome to the Sandwich Shop!");
         Console.WriteLine("We have the following sandwiches available:");
         foreach (Sandwich sandwich in SandwichShop.sandwiches) {
-            Console.WriteLine($"    >{sandwich.name} - {sandwich.price}");
+            Console.WriteLine($"    > {sandwich.name} - {sandwich.price}e");
         }
 
     }
@@ -25,6 +25,7 @@ class SandwichPrompter {
         }else
         {
             TakeOrder();
+            return;
         }
     }
 }
