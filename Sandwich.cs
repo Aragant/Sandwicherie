@@ -1,4 +1,4 @@
-class Sandwich {
+class Sandwich: Item {
     public List<Ingredient> Ingredients { get; private set; }
 
     public float price { get; private set; }

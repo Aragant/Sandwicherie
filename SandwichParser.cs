@@ -35,21 +35,11 @@ class SandwichParser{
     }
 
     public static Sandwich IsPresentInSandwichShop(string sandwich){
-        foreach (Sandwich sandwichShopSandwich in SandwichShop.sandwiches){
-            if(sandwichShopSandwich.name == sandwich){
-                return sandwichShopSandwich;
-            }
-        }
-
-        return null;
+        return SandwichShop.GetSandwich(sandwich);
     }
 
     private static bool IsPresentInSandwichDictionary(Dictionary<Sandwich, int> sandwiches, Sandwich sandwich){
-        if(sandwiches.ContainsKey(sandwich)){
-            return true;
-        }
-
-        return false;
+        return sandwiches.ContainsKey(sandwich);
     }
 
 }
