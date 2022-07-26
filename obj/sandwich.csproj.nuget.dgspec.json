@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj": {}
+    "D:\\ESGI\\2021-2022 4AL\\Design Pattern en C#\\Sandwicherie\\sandwich.csproj": {}
   },
   "projects": {
-    "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj": {
+    "D:\\ESGI\\2021-2022 4AL\\Design Pattern en C#\\Sandwicherie\\sandwich.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj",
+        "projectUniqueName": "D:\\ESGI\\2021-2022 4AL\\Design Pattern en C#\\Sandwicherie\\sandwich.csproj",
         "projectName": "sandwich",
-        "projectPath": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\sandwich.csproj",
-        "packagesPath": "C:\\Users\\tomto\\.nuget\\packages\\",
-        "outputPath": "C:\\toto\\esgi\\4A\\C# Design pattern\\sandwich\\obj\\",
+        "projectPath": "D:\\ESGI\\2021-2022 4AL\\Design Pattern en C#\\Sandwicherie\\sandwich.csproj",
+        "packagesPath": "C:\\Users\\jluc.LYS-PHORIMAVONG\\.nuget\\packages\\",
+        "outputPath": "D:\\ESGI\\2021-2022 4AL\\Design Pattern en C#\\Sandwicherie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tomto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jluc.LYS-PHORIMAVONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

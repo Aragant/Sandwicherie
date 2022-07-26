@@ -65,3 +65,20 @@ C:\toto\esgi\4A\C# Design pattern\sandwich\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\sandwich.csproj.CopyComplete
 C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\sandwich.genruntimeconfig.cache
 C:\toto\esgi\4A\C# Design pattern\sandwich\obj\Debug\net6.0\ref\sandwich.dll
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\obj\Debug\net6.0\sandwich.csproj.AssemblyReference.cache
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\obj\Debug\net6.0\sandwich.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\obj\Debug\net6.0\sandwich.AssemblyInfoInputs.cache
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\obj\Debug\net6.0\sandwich.AssemblyInfo.cs
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\obj\Debug\net6.0\sandwich.csproj.CoreCompileInputs.cache
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\obj\Debug\net6.0\sandwich.dll
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\obj\Debug\net6.0\refint\sandwich.dll
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\obj\Debug\net6.0\sandwich.pdb
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\bin\Debug\net6.0\sandwich.exe
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\bin\Debug\net6.0\sandwich.deps.json
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\bin\Debug\net6.0\sandwich.runtimeconfig.json
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\bin\Debug\net6.0\sandwich.dll
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\bin\Debug\net6.0\sandwich.pdb
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\obj\Debug\net6.0\sandwich.csproj.CopyComplete
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\obj\Debug\net6.0\sandwich.genruntimeconfig.cache
+D:\ESGI\2021-2022 4AL\Design Pattern en C#\Sandwicherie\obj\Debug\net6.0\ref\sandwich.dll

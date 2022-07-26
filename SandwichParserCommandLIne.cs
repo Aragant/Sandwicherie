@@ -33,5 +33,4 @@ class SandwichParserCommandLine: ISandwichParser {
         }
         return sandwiches;
     }
-
 }
